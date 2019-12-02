@@ -1,0 +1,1 @@
+# Integrando-o-Squid-com-Ldap-usando-Cripografia
